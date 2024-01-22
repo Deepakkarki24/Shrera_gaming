@@ -5996,7 +5996,6 @@ html.show-preloader body {
   position: relative;
   padding: 0;
   z-index: 1;
-  margin-top: -150px 0
 }
 .match__result-bg {
   position: absolute;
@@ -6024,6 +6023,8 @@ html.show-preloader body {
     align-items: flex-end;
     margin: 20px auto 0;
   }
+  .match_result_area{
+    margin-top: -150px 0
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .match__result-wrapper > *:nth-child(even) .match__winner-wrap {
