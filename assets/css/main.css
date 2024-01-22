@@ -1526,7 +1526,7 @@ html.show-preloader body {
 }
 @media (max-width: 767.98px) {
   .section__title .title {
-    font-size: 35px;
+    font-size: 25px;
     line-height: 1.1;
   }
 }
@@ -8612,6 +8612,11 @@ html.show-preloader body {
 @media (max-width: 767.98px) {
   .blog-details-area .blog-post-thumb {
     margin: 0 0 25px;
+  }
+  .phon-png {
+    margin-top: 50px;
+    left: none;
+    width: 40%;
   }
 }
 .blog-details-content {
