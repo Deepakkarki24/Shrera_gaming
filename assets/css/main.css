@@ -5996,6 +5996,7 @@ html.show-preloader body {
   position: relative;
   padding: 0;
   z-index: 1;
+  margin-top: 60px;
 }
 .match__result-bg {
   position: absolute;
