@@ -9959,6 +9959,9 @@ blockquote p {
   .copyright__card {
     margin-top: 10px;
   }
+  .left-box{
+    margin:0 auto ! important;
+  }
 }
 .copyright__menu ul {
   gap: 0 55px;
@@ -10215,8 +10218,9 @@ blockquote p {
 /*# sourceMappingURL=main.css.map */
 
 .left-box button {
-  padding: 15px 30px;
+  padding: 10px 20px;
   font-size: 18px;
+  font-weight:700;
   border-radius: 20px;
 }
 
@@ -10301,6 +10305,7 @@ blockquote p {
 .about-btn {
   padding: 10px 20px;
   border-radius: 30px;
+  font-weight:700;
 }
 
 .about-btn-box {
