@@ -9959,8 +9959,8 @@ blockquote p {
   .copyright__card {
     margin-top: 10px;
   }
-  .left-box{
-    margin:0 auto ! important;
+  .left-box button{
+    width:100%;
   }
 }
 .copyright__menu ul {
