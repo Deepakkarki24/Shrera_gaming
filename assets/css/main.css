@@ -6023,7 +6023,7 @@ html.show-preloader body {
     align-items: flex-end;
     margin: 20px auto 0;
   }
-  .match_result_area{
+  .match__result-area{
     margin-top: -150px 0;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
