@@ -6025,6 +6025,7 @@ html.show-preloader body {
   }
   .match__result-area{
     margin-top: 140px;
+  }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .match__result-wrapper > *:nth-child(even) .match__winner-wrap {
