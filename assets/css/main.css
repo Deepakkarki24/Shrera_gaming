@@ -10242,10 +10242,6 @@ blockquote p {
   margin-top: 30px;
 }
 
-.slide_viewer {
-  width: 55% !important;
-}
-
 .g-box h3 {
   margin-top: 18px !important;
   font-size: 16px !important;
@@ -10550,5 +10546,9 @@ a.slide_btn {
 
   .about-btn {
     width: 100%;
+  }
+
+  .slide_viewer {
+    width: 55% !important;
   }
 }
