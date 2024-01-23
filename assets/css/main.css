@@ -10216,9 +10216,8 @@ blockquote p {
 /*# sourceMappingURL=main.css.map */
 
 .left-box button {
-  padding: 15px 0;
+  padding: 15px 30px;
   font-size: 18px;
-  width: 100%;
   border-radius: 20px;
 }
 
@@ -10251,10 +10250,6 @@ blockquote p {
   margin-top: 18px !important;
   font-size: 16px !important;
   letter-spacing: 5px !important;
-}
-
-.about-btn {
-  width: 100%;
 }
 
 .left-box p {
@@ -10547,5 +10542,13 @@ a.slide_btn {
   }
   .next_btn {
     right: 50px;
+  }
+
+  .left-box button {
+    width: 100%;
+  }
+
+  .about-btn {
+    width: 100%;
   }
 }
