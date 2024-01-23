@@ -2701,7 +2701,8 @@ html.show-preloader body {
 }
 @media (max-width: 767.98px) {
   .banner__padding {
-    padding: 0;
+    padding-top: 70vw;
+    padding-bottom: 17vw;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -10215,15 +10216,55 @@ blockquote p {
 /*# sourceMappingURL=main.css.map */
 
 .left-box button {
-  padding: 15px 30px;
+  padding: 15px 0;
   font-size: 18px;
+  width: 100%;
   border-radius: 20px;
+}
+
+.left-box p {
+  font-size: 18px !important;
+}
+
+.left-box h1 {
+  font-size: 8vw !important;
+}
+
+.left-box {
+  margin-bottom: 40px;
+}
+
+.slider {
+  margin-top: 30px !important;
+}
+
+.slide_buttons {
+  right: 35% !important;
+  margin-top: 30px;
+}
+
+.slide_viewer {
+  width: 55% !important;
+}
+
+.g-box h3 {
+  margin-top: 18px !important;
+  font-size: 16px !important;
+  letter-spacing: 5px !important;
+}
+
+.about-btn {
+  width: 100%;
 }
 
 .left-box p {
   font-size: 20px;
   font-weight: 700;
   line-height: 30px;
+}
+
+.g-box {
+  margin: 20px 0;
 }
 
 .left-box h1 {
@@ -10359,15 +10400,6 @@ blockquote p {
   background: #ecf0f1;
 }
 
-/* html,
-body {
-  background: #f7f5e6;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-} */
-
 .slider {
   margin: 0 auto;
   max-width: 940px;
@@ -10377,7 +10409,7 @@ body {
 .slider::before {
   content: "";
   width: 100%;
-  background-image: url(/assets/img/screenshot-frame.png);
+  background-image: url("/assets/img/screenshot-frame.png");
   position: absolute;
   height: 500px;
   background-position: center;
