@@ -10400,7 +10400,7 @@ blockquote p {
 .slider::before {
   content: "";
   width: 100%;
-  background-image: url("/assets/img/screenshot-frame.png");
+  background-image: url("../../assets/img/screenshot-frame.png");
   position: absolute;
   height: 500px;
   background-position: center;
@@ -10437,7 +10437,7 @@ blockquote p {
 }
 
 .slide:nth-of-type(1) {
-  background: url("/assets/img/s1.jpeg");
+  background: url("../../assets/img/s1.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -10445,7 +10445,7 @@ blockquote p {
 }
 
 .slide:nth-of-type(2) {
-  background: url("/assets/img/s2.jpeg");
+  background: url("../../assets/img/s2.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -10453,7 +10453,7 @@ blockquote p {
 }
 
 .slide:nth-of-type(3) {
-  background: url("/assets/img/s1.jpg");
+  background: url("../../assets/img/s1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -10461,7 +10461,7 @@ blockquote p {
 }
 
 .slide:nth-of-type(4) {
-  background: url("/assets/img/s2.jpg");
+  background: url("../../assets/img/s2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
